@@ -1,6 +1,7 @@
-first write command npm install 
-cd api 
+first write command npm install in your vscode 
+
+#cd api 
 nodemon server.js 
 
-cd client
+#cd client
 npm run dev 
