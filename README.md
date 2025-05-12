@@ -4,4 +4,4 @@ first write command npm install in your vscode
 # nodemon server.js 
 
 #cd client
- #npm run dev 
+# npm run dev 
